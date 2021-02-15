@@ -1,0 +1,71 @@
+{
+    "Apps": [],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "translate_too_often_denied_for_language",
+            "value": "{\"en\":true,\"zh-CN\":true}"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"en\":0,\"fr\":0,\"vi\":0,\"zh-CN\":0}"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13257065480157314\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQguirw/gaulpvrn1jpDeYJY66TOSHNj+kO3JmCO/Uf4RKhRANCAAR344k4VL+CCvkiSKi1M3PSwNBFnaVKueNUBMuSrlMiA4/JFbP2f7qhQ2PT6JBgWPQRHN29bLtzfIxJTlEUd434\"}"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "translate_whitelists",
+            "value": "{\"en\":\"zh-TW\"}"
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"zh-TW\""
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"zh-TW,zh,en-US,en\""
+},
+        {
+            "name": "translate_auto_always_count",
+            "value": "{\"en\":1}"
+},
+        {
+            "name": "sync.demographics_birth_year_offset",
+            "value": "2"
+},
+        {
+            "name": "download.prompt_for_download_android",
+            "value": "2"
+},
+        {
+            "name": "safebrowsing.enabled",
+            "value": "true"
+},
+        {
+            "name": "translate.enabled",
+            "value": "true"
+},
+        {
+            "name": "search.contextual_search_enabled",
+            "value": "\"true\""
+},
+        {
+            "name": "browser.clear_data.cookies",
+            "value": "true"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"ar\":1,\"en\":0,\"es\":2,\"fr\":0,\"ja\":2,\"th\":1,\"vi\":3,\"zh-CN\":1}"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"ar\":0,\"en\":1,\"es\":0,\"fr\":5,\"ja\":0,\"th\":0,\"vi\":0,\"zh-CN\":0}"
+}
+    ],
+    "Themes": []
+}
